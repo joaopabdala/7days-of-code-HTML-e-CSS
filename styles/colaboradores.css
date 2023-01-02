@@ -1,0 +1,50 @@
+.colaboradores{
+    height: 30vw
+}
+
+.colaboradores__container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 176px;
+    background: rgba(196, 25, 25, 0.03);
+    border-radius: 16px;
+    
+}
+
+
+
+.colaboradores__container>.texto__secundario{
+    font-weight: 600;
+    font-size: 14px;
+    padding: 0;
+}
+
+.colaboradores__container>.titulo{
+    font-size: 36px;
+    padding: 0;
+    margin: 0;
+
+}
+
+.colaboradores__container>img{
+    margin: 20px 0;
+    padding: 0;
+
+}
+
+.colaboradores__nome{
+    font-size: 16px;
+    padding: 0;
+
+   
+
+}
+
+.colaboradores__descricao{
+    font-weight: 400;
+    font-size: 14px;
+    padding: 0;
+
+    color: var(--texto-descricao);
+}

@@ -1,0 +1,27 @@
+.sobre__nos{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+.texto__secundario{
+    color: var(--vermelho);
+    font-weight: 600;
+    padding: 96px 0 40px 0;
+}
+
+h1{
+    font-size: 48px;
+    font-weight: 600;
+    
+}
+
+.texto__descricao{
+    color: var(--texto-descricao);
+    font-size: 20px;
+    font-weight: 400;
+    padding: 3em 325px;    
+    text-align: center;
+}

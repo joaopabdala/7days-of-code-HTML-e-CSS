@@ -1,0 +1,27 @@
+.metricas{
+    display: flex;
+    margin: 107px 120px;
+    gap: 50px;
+
+
+
+}
+
+.metricas__titulo{
+   font-size: 60px;
+   font-weight: 600;
+   color: var(--vermelho);
+   margin-bottom: 10px; 
+}
+
+.metricas__subtitulo{
+    font-size: 18px;
+    
+}
+
+.metricas__descricao{
+    font-weight: 400;
+    color:var(--texto-descricao);
+    margin-top: 10px; 
+
+}
