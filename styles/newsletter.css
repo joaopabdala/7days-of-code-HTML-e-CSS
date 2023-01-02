@@ -1,0 +1,41 @@
+.newsletter{
+    height: 20vw;
+    display: flex;
+    flex-direction: column;
+    padding: 96px 336px;
+    gap: 32px;
+    background: black;
+    align-items: center;
+    
+}
+
+.newsletter>.titulo{
+    font-weight: 600;
+    font-size: 36px;
+}
+
+.newsletter__descricao{
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.input__container>.input__email{
+    background: #FFFFFF;
+    border: 1px solid #D0D5DD;
+    padding: 12px 14px 12px 16px;
+    gap: 8px;
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    border-radius: 8px;
+}
+.input__container{
+    align-self: center;
+}
+.input__container>.botao{
+    margin-left: 10px;
+
+}
+
+.cop{
+    color: var(--texto-descricao);
+    padding-bottom: 100px;
+}

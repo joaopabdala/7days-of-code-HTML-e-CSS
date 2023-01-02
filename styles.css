@@ -3,6 +3,7 @@
 @import url(./styles/metricas.css);
 @import url(./styles/vagas.css);
 @import url(./styles/colaboradores.css);
+@import url(./styles/newsletter.css);
 
 :root{
 --fonte-principal: 'Inter';
